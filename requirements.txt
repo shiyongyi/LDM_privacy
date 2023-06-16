@@ -1,0 +1,24 @@
+torch # conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+numpy 
+sklearn
+pytorch-lightning==1.8.6
+pytorch_msssim
+monai
+torchmetrics
+torch-fidelity
+torchio 
+pillow
+einops
+torchvision
+matplotlib
+pandas 
+lpips
+natsort
+opencv-python
+timm
+thop
+visdom
+streamlit
+
+
+
