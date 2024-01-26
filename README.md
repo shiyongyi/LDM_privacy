@@ -16,7 +16,7 @@ Get Started
 
 * Before executing the files, please navigate to the respective files path.
 * The pre-trained checkpoints for the main models have been shared at:
-https://drive.google.com/drive/folders/1hp1J41b8HduP1V4TtBdvVUF069WvrO9I
+https://drive.google.com/drive/folders/1hp1J41b8HduP1V4TtBdvVUF069WvrO9I?usp=drive_link
   
 1. Data Preparation [1]
 
